@@ -1,0 +1,17 @@
+#Breadcrumb {
+    background-color: #e2575a;
+    width: 1350px;
+    padding: 5px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    margin-top: 30px;
+
+    font-weight: bold;
+}
+
